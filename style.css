@@ -1,0 +1,19 @@
+.slider {
+    overflow: hidden;
+    margin: auto;
+    width: 50vw;
+    height: 20vw;
+}
+
+header figure {
+    position: relative;
+    width: 600%;
+    margin: 0%;
+    animation: 10s slider infinite;
+
+}
+
+header figure img {
+    float: right;
+    width: 16.75;
+}
